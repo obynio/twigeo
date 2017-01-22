@@ -1,0 +1,8 @@
+# go to https://apps.twitter.com/ to obtain your credentials
+
+Config = {
+    "CONSUMER_KEY": "YOUR_CONSUMER_KEY_HERE",
+    "CONSUMER_SECRET": "YOUR_CONSUMER_SECRET_HERE",
+    "ACCESS_TOKEN_KEY": "YOUR_ACCESS_TOKEN_KEY_HERE",
+    "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET_HERE"
+}
