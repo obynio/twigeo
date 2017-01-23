@@ -2,6 +2,7 @@
 ##Synopsis
 
 **twigeo** is a live tweet map generator written in Python.
+
 To map another country, change the bouding box coordinates to match the one you want.
 
 ##Dependency
