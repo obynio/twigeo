@@ -14,4 +14,4 @@ To map another country, change the bouding box coordinates to match the one you 
 
 Not perfect but it's worth a look :]
 
-![alt tag](https://pool.sybiload.com/git/twigeo/twigeo.jpg)
+![alt tag](https://pool.obyn.io/git/twigeo/twigeo.jpg)
